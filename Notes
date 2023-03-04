@@ -1,0 +1,17 @@
+    Authentication App - This app is essential for creating user accounts, logging in, and managing user permissions. You can use Django's built-in authentication app or use third-party packages such as Django-Allauth or Django-Registration.
+
+    Shepherd App - This app will be used to manage the shepherds in your church. It could include features such as adding new shepherds, updating their details, assigning them to groups, and tracking their activities.
+
+    Group App - This app will be used to manage the groups in your church. It could include features such as creating new groups, adding members to groups, and managing group activities.
+
+    Event App - This app will be used to manage church events. It could include features such as creating new events, scheduling events, and managing event attendance.
+
+    Messaging App - This app will be used to facilitate communication between shepherds, group members, and church leadership. It could include features such as sending group messages, sending direct messages, and managing message history.
+
+    Reporting App - This app will be used to generate reports based on the data collected by other apps. It could include features such as generating attendance reports, activity reports, and member reports.
+
+    Integration App - This app will be used to integrate your shepherd's management system with other systems in your church. It could include features such as integrating with your church's website, social media pages, and email marketing platform.
+
+    Attendance App  - This app will help track attendance to all events of the church including the cell meetings
+
+    SoulTracker App - This app acts as a medium to collect data on sould being won for christ by shepherds.
